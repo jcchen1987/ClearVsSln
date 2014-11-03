@@ -43,3 +43,8 @@ Temporary Items
 .apdisk
 
 *.ncb
+*.pdb
+*.suo
+*.user
+*.res
+bin/ClearVSSln.exe
